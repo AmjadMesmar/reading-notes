@@ -1,4 +1,9 @@
-# **Amjad Mesmar**
+Hello, thanks for checking my website!
+I'm Amjad Mesmar,I graduated  with Computer Science bachelor degree from Yarmouk university, I am always looking to learn new skills especially about programming and creating websites and applications, I hope you enjoy your stay and have a wonderful day!
+
+
+# Table of content:
+
 
 |  Topic   |    Link     |
 |----------|:-------------:|
