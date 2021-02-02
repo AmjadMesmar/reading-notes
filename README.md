@@ -1,6 +1,8 @@
-|       Amjad   | Mesmar   |
+# **Amjad Mesmar**
+
+|  Topic   |    Link     |
 |----------|:-------------:|
-| Profile         |[My Github](https://github.com/AmjadMesmar)| 
-|    Live Website      |[My live page](https://amjadmesmar.github.io/reading-notes/)            |
+| Main  Page   |[Main](https://amjadmesmar.github.io/reading-notes/)| 
+| Growth Mindset page    |[Growth Mindset](https://amjadmesmar.github.io/reading-notes/Growthnotes)            |
 |          |            |
 
