@@ -1,4 +1,5 @@
-# Growth Mindset :
+# Growth Mindset : 
+![Tux, the Linux mascot](https://pbs.twimg.com/profile_images/946839011577954304/QBkPvu2E.jpg "Brain Power!")
 
 **Growth Mindset** means that the person's ability can be developed with effort and facing challenges, and that talent and intellegence are just a good starting point only, It's the contrary of a **Fixed Mindset** which believes that only talent and intellegence what makes a person successful and if you didn't inhert these traits you wont develope your skills and succeed. 
 
