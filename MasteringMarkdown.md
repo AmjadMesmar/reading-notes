@@ -1,7 +1,7 @@
 # Mastering Markdown:
 
 
-![Programmer](https://lh3.googleusercontent.com/proxy/Uf4S866a6X3c8k_7Px493uCNzamX9dvxiP49H_pW56DGYGRrVTZsaCVTr54HfS2DK0YALcWTqzl-uLXO8Po0OUk8V6y1T2qpMtFfOiGxuXP6s48rPvOA)
+![Programmer](https://cdn5.vectorstock.com/i/1000x1000/36/19/coding-and-programming-line-art-thin-icons-vector-10623619.jpg)
 
 
 ### **What is Markdown?**
