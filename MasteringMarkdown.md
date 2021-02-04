@@ -15,7 +15,7 @@ Markdown is a way to style text on the web. You control the display of the docum
         **Bold text**
         - list item
 
-#### ** The results:**
+#### **The results:**
 
 ###### Hello World
 **Bold text**
