@@ -10,4 +10,5 @@ I'm Amjad Mesmar,I graduated  with Computer Science bachelor degree from Yarmouk
 | Main  Page   |[Main](https://amjadmesmar.github.io/reading-notes/)| 
 | Growth Mindset page    |[Growth Mindset](https://amjadmesmar.github.io/reading-notes/Growthnotes)            |
 | Markdown      |  [Mastering markdown](https://amjadmesmar.github.io/reading-notes/MasteringMarkdown)          |
+| Learn Git     | [Git Tutorial](https://amjadmesmar.github.io/reading-notes/GitTuts)   |
 
