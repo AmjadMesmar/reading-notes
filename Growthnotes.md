@@ -32,3 +32,7 @@ Answering these questions will help you to put better strategies to have better 
 Part of having a **Growth Mindset** is being happy for others' success and make them your source of inspiration, being jealous and hating their success will only damage you and your peers.
 
  By having a **Growth Mindset** you will find yourself learning faster and becoming a valuable asset in your team!
+ 
+
+
+## [Main page](https://amjadmesmar.github.io/reading-notes/)
