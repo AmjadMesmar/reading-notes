@@ -1,5 +1,5 @@
 
-![Git](https://www.codematters.online/wp-content/uploads/2019/09/Git-Logo-2Color.png())
+![Git](Images/GitLogo.png)
 
 # **Git Tutorial:**
 
@@ -137,7 +137,7 @@ After staging one or multiple files, you should commit the changes and record wh
 
 - **Pushing Changes** 
 
-![Car](https://media1.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![Car](Images/CatCoding.webp)
 
 Next, you would push changes to a remote repository.
 

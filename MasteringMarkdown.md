@@ -1,7 +1,7 @@
 # Mastering Markdown:
 
 
-![Programmer](https://cdn5.vectorstock.com/i/1000x1000/36/19/coding-and-programming-line-art-thin-icons-vector-10623619.jpg)
+![Programmer](Images/Coding.jpg)
 
 
 ### **What is Markdown?**
@@ -72,7 +72,7 @@ Markdown is a way to style text on the web. You control the display of the docum
   #### **Example:**
 
 #### **As Albert Einstein once said :**
-  ![Albert Einstein](https://miro.medium.com/max/2890/1*oC1wQeImbqzcfO3jixK2oQ.jpeg)
+  ![Albert Einstein](Images/Albert_Einstein.jpg)
 
 
 >Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.
