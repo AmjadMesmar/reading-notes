@@ -1,3 +1,181 @@
+# HTML ![HTML](Images/html.webp)
+
+
+**HTML** stands for ***HyperText Markup Language***. The **HyperText** part
+refers to the fact that HTML
+allows you to create links that
+allow visitors to move from one
+page to another quickly and
+easily. A **markup** language allows
+you to annotate text, and these
+annotations provide additional
+meaning to the contents of a
+document. If you think of a web
+page, we add code around the
+original text we want to display
+and the browser then uses
+the code to display the page
+correctly. So the **tags** we add are
+**the markup**.
+
+
+# Looking at How Other sites are Built
+
+- When you open a web 
+page, you can look for the **View
+menu** in your browser, and select
+the option that says **Source** or
+**View source**.
+
+# DOCTYPEs
+
+Because there have been
+several versions of **HTML**, each
+web page should begin with a
+**DOCTYPE** declaration to tell a
+browser which version of **HTML**
+the page is using.
+
+- The use of a DOCTYPE
+can also help the browser to
+render a page correctly.
+
+- **DOCTYPE**  should be
+the first thing in a document.
+There must be nothing before it,
+not even a space.
+
+# IDs And CLASSES
+
+- ## ID ATTRIBUTE
+
+The **id** is used to
+uniquely identify that element
+from other elements on the
+page. Its value should start with
+a letter or an underscore (not a
+number or any other character).
+
+- It is important that **no two
+elements** on the same page
+have the same value for their **id**
+attributes (otherwise the value is
+no longer unique).
+
+
+- ## CLASS ATTRIBUTE
+
+Every **HTML** element can
+also carry a **class** attribute.
+Sometimes, rather than uniquely
+identifying one element within
+a document, you will want a
+way to identify several elements
+as being different from the
+other elements on the page.
+
+- The **class** attribute on any
+element can share the same
+value.
+
+# THE DIV TAG
+
+     <div> </div>
+
+The **div** element allows you to
+group a set of elements together
+in one block-level box.
+
+
+- In a browser, the contents of
+the **div** element will start on
+a new line, but other than this
+it will make no difference to the
+presentation of the page.
+
+
+- It can also make it easier to
+follow your code if you have used
+**div** elements to hold each
+section of the page.
+
+# THE META TAG
+
+The **meta** element lives
+inside the **head** element and
+contains information about that
+web page.
+
+- It is not visible to users but
+fulfills a number of purposes
+such as telling search engines
+about your page, who created
+it, and whether or not it is time
+sensitive. (If the page is time
+sensitive, it can be set to expire.)
+
+- The **meta** element is an empty
+element so it does not have a
+closing tag. It uses attributes to
+carry the information.
+
+# HEADER AND FOOTER
+
+The **header** and **footer**
+elements can be used for:
+
+1. The main header or footer
+that appears at the top or
+bottom of every page on the
+site.
+
+- A **header** or **footer** for an
+individual **article tag** or
+**section tag** within the page.
+
+- Each individual **article** and
+**section** element can also
+have its own **header** and
+**footer** elements to hold the
+header or footer information for
+that section within the page.
+
+# NAV TAG
+
+The **nav** element is used to
+contain the major navigational
+blocks on the site such as the
+primary site navigation.
+
+
+# Body, Head & Title
+
+-      <body> </body>
+
+Everything inside this element is
+shown inside the main browser
+window.
+-      <head> </head>
+
+Before the **body** element you
+will often see a **head** element.
+This contains information
+about the page, you will usually find a **title**
+element inside the **head**
+element.
+-      <title> </title>
+
+The contents of the **title**
+element are either shown in the
+top of the browser, above where
+you usually type in the URL of
+the page you want to visit, or
+on the tab for that page (if your
+browser uses tabs to allow you
+to view multiple pages at the
+same time).
+
+
 # Process and Design
 
 ![HTML](Images/html.gif)
@@ -260,10 +438,12 @@ it is best to keep the primary
 navigation exactly the same.
 
 
+![HTML](Images/html.webp)
+
 
 **References:**
 
 - HTML & CSS Design and Build Websites
 by Jon Duckett [Get the book](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
-![HTML](Images/html.webp)
+
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)
