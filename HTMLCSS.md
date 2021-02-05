@@ -1,5 +1,6 @@
-# HTML ![HTML](Images/html.webp)
+![HTML](Images/html.webp)
 
+# HTML 
 
 **HTML** stands for ***HyperText Markup Language***. The **HyperText** part
 refers to the fact that HTML
