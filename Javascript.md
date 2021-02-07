@@ -164,8 +164,13 @@ specific task.
 
 - ## **Function declaration:**
 
-![Function Syntax](Images/functionwrite.jpg)
+![Declaring a function](Images/functionwrite.jpg)
 
+
+- ## **Calling a function:**
+
+
+![Calling a Function](Images/callingfunction.png)
 
 
 **References:**
