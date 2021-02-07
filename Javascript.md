@@ -168,4 +168,9 @@ specific task.
 
 
 
+**References:**
+
+- JavaScript and JQuery: Interactive Front-End Web Development
+by Jon Duckett [Get the book](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
+
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)
