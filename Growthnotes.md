@@ -13,11 +13,11 @@ To have a **Growth Mindset**, you will have to take a step back, rethink your st
 
 To have a **Growth Mindset**, you have to avoid diverting your attention to other things other than the problem which may lead you to lose focus; Sometimes you only have to step back,take a breath and come back to the issue later when you are inspired and more focused.
 
--***Effort:***
+- ***Effort:***
 
 To have a **Growth Mindset**, you have to put effort of you are doing, nothing will change and you wont learn a thing without doing an actual effort, no pain,no gain!
 
--***Criticism:***
+- ***Criticism:***
 
 At the end of your day always ask yourself:
 
@@ -27,7 +27,7 @@ At the end of your day always ask yourself:
 
 Answering these questions will help you to put better strategies to have better days in the future,also doing this will help you process your coworkers' criticisim.
 
--***Success of others:***
+- ***Success of others:***
 
 Part of having a **Growth Mindset** is being happy for others' success and make them your source of inspiration, being jealous and hating their success will only damage you and your peers.
 

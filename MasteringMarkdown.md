@@ -38,14 +38,14 @@ Markdown is a way to style text on the web. You control the display of the docum
 
 **3. Lists:**
 
-1.Unorderd list:
+1. Unorderd list:
 
 
     -list item1
     -list item2
     -list item3
 
-2.Orderd list:
+2. Orderd list:
 
     1. list item1
     2. list item2
