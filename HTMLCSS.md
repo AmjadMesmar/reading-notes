@@ -378,7 +378,7 @@ helps them understand what your site is about and how it is organized.
 Good navigation tends to follow these principles:
 
 
-1. **Concise**
+- **Concise**
 
 The navigation should
 be quick and easy to read. It is
@@ -388,7 +388,7 @@ no more than **eight** links. These
 can link to section homepages
 which in turn link to other pages.
 
-2. **Clear**
+- **Clear**
 
 Users should be able to predict
 the kind of information that
@@ -398,7 +398,7 @@ Where possible, choose single
 descriptive words for each link
 rather than phrases.
 
-3. **Selective**
+- **Selective**
 
 The primary navigation should
 only reflect the sections or
@@ -408,7 +408,7 @@ information like terms and
 conditions and so on are best
 placed elsewhere on the page.
 
-4. **Context**
+- **Context**
 
 Good navigation provides
 context. It lets the user know
@@ -418,7 +418,7 @@ color** or some kind of visual
 marker to indicate the current
 page is a good way to do this.
 
-5. **Interactive**
+- **Interactive**
 
 Each link should be big enough
 to click on and the appearance
@@ -428,7 +428,7 @@ or clicks on it. It should also
 be **visually distinct** from other
 content on the page.
 
-6. **Consistent**
+- **Consistent**
 
 The more pages a site contains,
 the larger the number of
