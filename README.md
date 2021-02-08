@@ -14,5 +14,6 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 | Markdown      |  [Mastering Markdown](https://amjadmesmar.github.io/reading-notes/MasteringMarkdown)          |
 | Learn Git     | [Git Tutorial](https://amjadmesmar.github.io/reading-notes/GitTuts)   |
 | Html & Css | [Process And Design](https://amjadmesmar.github.io/reading-notes/HTMLCSS) |
-| JavaScript | [Learn JavaScript](https://amjadmesmar.github.io/reading-notes/Javascript)
+| JavaScript | [Learn JavaScript](https://amjadmesmar.github.io/reading-notes/Javascript) |
+| More JavaScript | [Comparison and logical operators](https://amjadmesmar.github.io/reading-notes/Javascript2) |
 
