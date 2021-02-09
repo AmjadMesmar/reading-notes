@@ -173,6 +173,10 @@ specific task.
 ![Calling a Function](Images/callingfunction.png)
 
 
+- ## **Declaring functions that needs information**
+
+![Calling a Function](Images/ff.png)
+
 **References:**
 
 - JavaScript and JQuery: Interactive Front-End Web Development
