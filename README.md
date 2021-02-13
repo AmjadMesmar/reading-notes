@@ -28,18 +28,18 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 
 | Topic | Link |
 |-------|------|
-|day1   | Link1|
-|day2   | Link2|
-|day3   | Link3|
-|day4   | Link4|
-|day5   | Link5|
-|day6   | Link6|
-|day7   | Link7|
-|day8   | Link8|
-|day9   | Link9|
-|day10   | Link10|
-|day11   | Link11|
-|day12   | Link12|
-|day13   | Link13|
-|day14   | Link14|
-|day15   | Link15|
+| Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/class-01)|
+|Day 02   | Link2|
+|Day 03   | Link3|
+|Day 04   | Link4|
+|Day 05   | Link5|
+|Day 06   | Link6|
+|Day 07   | Link7|
+|Day 08   | Link8|
+|Day 09   | Link9|
+|Day 10   | Link10|
+|Day 11   | Link11|
+|Day 12   | Link12|
+|Day 13   | Link13|
+|Day 14   | Link14|
+|Day 15   | Link15|
