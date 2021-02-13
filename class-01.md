@@ -600,7 +600,6 @@ The flowcharts show the paths between each step.
 ![Scripts](Images201/flowcharts.png)
 
 ![Scripts](Images201/how.png)
-![Scripts](Images201/how2.png)
 
 
 
