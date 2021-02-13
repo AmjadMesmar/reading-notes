@@ -613,4 +613,4 @@ by Jon Duckett [Get the book](https://www.amazon.com/HTML-CSS-Design-Build-Websi
 by Jon Duckett [Get the book](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
 
 
-   ## [Main page](https://amjadmesmar.github.io/reading-notes/)
+## [Main page](https://amjadmesmar.github.io/reading-notes/)
