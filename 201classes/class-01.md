@@ -1,7 +1,7 @@
 
 # **HTML**  
 
-![HTML](Images/html.webp)
+![HTML](../Images/html.webp)
 
 ## **Structure**
 
@@ -204,7 +204,7 @@ primary site navigation.
 
 ## **HTML5 Layout**
 
-![HTML](Images/html.gif)
+![HTML](../Images/html.gif)
 
 ## Traditional HTML Layouts
 
@@ -400,11 +400,11 @@ achieve.
 
 ## **Example 1:**
 
-![SiteMap 1](Images/SiteMap1.png)
+![SiteMap 1](../Images/SiteMap1.png)
 
 # **Example 2:**
 
-![SiteMap 2](Images/SiteMap2.png)
+![SiteMap 2](../Images/SiteMap2.png)
 
 ## Wireframes
 
@@ -443,11 +443,11 @@ which page before considering how the the page should look.
 
 # **Example 1:**
 
-![Wireframe 1](Images/Wireframe1.jpg)
+![Wireframe 1](../Images/Wireframe1.jpg)
 
 # **Example 2:**
 
-![Wireframe 1](Images/Wireframe2.png)
+![Wireframe 1](../Images/Wireframe2.png)
 
 ## Visual hierarchy
 
@@ -560,11 +560,11 @@ it is best to keep the primary
 navigation exactly the same.
 
 
-![HTML](Images/html.webp)
+![HTML](../Images/html.webp)
 
  
 # JavaScript
-![JavaCroco](Images/javascriptcroco.webp)
+![JavaCroco](../Images/javascriptcroco.webp)
 
 ## What is JavaScript?
 
