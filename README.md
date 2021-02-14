@@ -28,7 +28,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 
 | Topic | Link |
 |-------|------|
-| Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/class-01)|
+| Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/201classes/class-01)|
 |Day 02   | Link2|
 |Day 03   | Link3|
 |Day 04   | Link4|
