@@ -6,7 +6,7 @@
 ## Headings
 
 - **HTML** has six "levels" of
-headings (from ***h1*** to ***h6**):
+headings (from ***h1*** to ***h6***):
 
 ![HTML](Images201/headings.png)
 
