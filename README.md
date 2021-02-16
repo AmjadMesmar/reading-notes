@@ -30,7 +30,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |-------|------|
 | Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/201classes/class-01)|
 |Day 02   | [Class 02](https://amjadmesmar.github.io/reading-notes/201classes/class-02)|
-|Day 03   | Link3|
+|Day 03   | [Class 03](https://amjadmesmar.github.io/reading-notes/201classes/class-03)|
 |Day 04   | Link4|
 |Day 05   | Link5|
 |Day 06   | Link6|
