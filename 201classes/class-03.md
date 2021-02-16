@@ -266,14 +266,14 @@ harder to read.
 
 ## Decisions And Loops
 
-# Comparison Operators
+## Comparison Operators
 
-## Evaluating Conditions:
+## Evaluating Conditions
 
 ![EV1](../Images/ev.png)
 ![EV2](../Images/ev2.png)
 
-## Using comparision operators:
+## Using comparision operators
 
 ### **Example:**
 
@@ -310,13 +310,13 @@ Then the condition will be checked again and if it still returns **true**, the c
 
 ## Using While loops
 
-### **Example:**
+### **While Example:**
 
 ![Example](../Images/whilex.png)
 
 ## Using Do While loops
 
-### **Example:**
+### **Do While Example:**
 
 ![Example](../Images/dowhilex.png)
 
