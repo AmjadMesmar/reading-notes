@@ -254,7 +254,7 @@ The properties that allow you to control the appearance of text can be split int
  1. lossless, like ***PNG*** and ***GIF***.
  2. lossy, like ***JPEG***.
 
- ### Transparency
+### Transparency
 
 In a simple form, transparency indicates something that is completely invisible. Logos and icons often need to be placed on backgrounds with variable colours. Hence it is desirable, that the background of these logos and icons is made transparent so that a single image can be used over multiple background variations.
 
