@@ -457,8 +457,10 @@ headings should be in a blue, italic, Times typeface.
 - **CSS** works by associating rules with **HTML** elements. These rules govern
 how the content of specified elements should be displayed.
 
-- A **CSS** rule contains two parts: 
+- A **CSS** rule contains two parts:
+
 1. A **selector**.
+
 2. A **declaration**.
 
 ![CSS!](Images/css1.jpg)
