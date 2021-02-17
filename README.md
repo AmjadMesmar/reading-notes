@@ -1,17 +1,16 @@
+# Welcome To My Page
 
 ![Reading](Images/Reading.gif)
 
 Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with Computer Science bachelor degree from Yarmouk university, I am always looking to learn new skills especially about programming and creating websites and applications, I hope you enjoy your stay and have a wonderful day!
 
+## **Table of content**
 
-# **Table of content:**
-
-
-## Code 102 Reading Notes:
+## Code 102 Reading Notes
 
 |  Topic   |    Link     |
 |----------|:-------------:|
-| Main  Page   |[Main](https://amjadmesmar.github.io/reading-notes/)| 
+| Main  Page   |[Main](https://amjadmesmar.github.io/reading-notes/)|
 | Growth Mindset page    |[Growth Mindset](https://amjadmesmar.github.io/reading-notes/Growthnotes)            |
 | Markdown      |  [Mastering Markdown](https://amjadmesmar.github.io/reading-notes/MasteringMarkdown)          |
 | Learn Git     | [Git Tutorial](https://amjadmesmar.github.io/reading-notes/GitTuts)   |
@@ -19,12 +18,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 | JavaScript | [Learn JavaScript](https://amjadmesmar.github.io/reading-notes/Javascript) |
 | More JavaScript | [Comparison and logical operators](https://amjadmesmar.github.io/reading-notes/Javascript2) |
 
-
-
-
-
-## Code 201 Reading Notes:
-
+## Code 201 Reading Notes
 
 | Topic | Link |
 |-------|------|
@@ -32,7 +26,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |Day 02   | [Class 02](https://amjadmesmar.github.io/reading-notes/201classes/class-02)|
 |Day 03   | [Class 03](https://amjadmesmar.github.io/reading-notes/201classes/class-03)|
 |Day 04   | [Class 04](https://amjadmesmar.github.io/reading-notes/201classes/class-04)|
-|Day 05   | Link5|
+|Day 05   | [Class 05](https://amjadmesmar.github.io/reading-notes/201classes/class-05)|
 |Day 06   | Link6|
 |Day 07   | Link7|
 |Day 08   | Link8|
