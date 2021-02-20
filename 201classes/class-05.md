@@ -264,10 +264,6 @@ In a simple form, transparency indicates something that is completely invisible.
 
  3. ***GIF*** images support transparency by declaring a single colour in the colour palette as transparent (index transparency).
 
- 
-
-
-
 **References:**
 
 - HTML & CSS Design and Build Websites
