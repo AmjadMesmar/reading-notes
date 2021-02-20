@@ -208,6 +208,7 @@ The properties that allow you to control the appearance of text can be split int
 ![CSS](Images201/text4.png)
 
 ## Specifying Typefaces
+
 ***font-family***
 
 - The font-family property allows you to specify the typeface that should be used for any text inside the element(s) to which a CSS rule applies.
@@ -222,6 +223,7 @@ The properties that allow you to control the appearance of text can be split int
 ![CSS](Images201/text7.png)
 
 ## UpperCase & LowerCase
+
 ***text-transform***
 
 - The text-transform property is used to change the case of text giving it one of the following values:
@@ -239,7 +241,6 @@ The properties that allow you to control the appearance of text can be split int
 ![CSS](Images201/text9.png)
 
 ## Article Summary: JPEG vs PNG vs GIF — which image format to use and when?
-
 
 ### When to use each image format?
 
