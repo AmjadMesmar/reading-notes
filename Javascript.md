@@ -152,7 +152,6 @@ create a single value from one or more values.
 
 ![Operators](Images/operators2.png)
 
-
 # Functions
 
 ![Function](Images/function.gif)

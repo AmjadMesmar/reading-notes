@@ -13,7 +13,6 @@ the code means yet. We start to look at it in more detail on the next
 page. Note that the **HTML** code is in blue, and the text you see on screen
 is in black.
 
-
 ![HTMLex](Images201/htmlex1.png)
 
 - The **HTML** code (in blue) is made up of characters that live inside angled
