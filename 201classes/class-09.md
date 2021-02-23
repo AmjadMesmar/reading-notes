@@ -87,6 +87,26 @@ image . The src , width , height , and alt attributes work just like they do whe
 
 ## Chapter 6: Events
 
+![Events](Images201/events.png)
+
+![Events](Images201/events1.png)
+
+![Events](Images201/events2.png)
+
+![Events](Images201/events3.png)
+
+![Events](Images201/events4.png)
+
+![Events](Images201/events5.png)
+
+![Events](Images201/events6.png)
+
+![Events](Images201/events7.png)
+
+![Events](Images201/events8.png)
+
+![Events](Images201/events9.png)
+
 **References:**
 
 - HTML & CSS Design and Build Websites
