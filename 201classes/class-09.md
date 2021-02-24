@@ -82,7 +82,6 @@ image . The src , width , height , and alt attributes work just like they do whe
 
 ![Lists](Images201/tables7.png)
 
-
 ## JAVASCRIPT
 
 ## Chapter 6: Events
