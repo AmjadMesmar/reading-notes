@@ -85,7 +85,6 @@ would be.
 
 ![CSS](Images201/liquid-layout.png)
 
-
 **References:**
 
 - HTML & CSS Design and Build Websites
