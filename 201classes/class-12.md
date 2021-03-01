@@ -129,6 +129,6 @@ Unlike the path functions we'll see in the next section, all three rectangle fun
 
 - Applying styles and colors [Read the full article here](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
-- Drawing text[Read the full article here](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+- Drawing text [Read the full article here](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
-## [Main page](https://amjadmesmar.github.io/reading-notes/)
+## [Main page](https://amjadmesmar.github.io/reading-notes/)    
