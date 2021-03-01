@@ -22,7 +22,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 
 | Topic | Link |
 |-------|------|
-| Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/201classes/class-01)|
+| Day 01  | [Class 01](https://amjadmesmar.github.io/reading-notes/201classes/class-01)|
 |Day 02   | [Class 02](https://amjadmesmar.github.io/reading-notes/201classes/class-02)|
 |Day 03   | [Class 03](https://amjadmesmar.github.io/reading-notes/201classes/class-03)|
 |Day 04   | [Class 04](https://amjadmesmar.github.io/reading-notes/201classes/class-04)|
@@ -33,7 +33,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |Day 09   | [Class 09](https://amjadmesmar.github.io/reading-notes/201classes/class-09)|
 |Day 10   | [Class 10](https://amjadmesmar.github.io/reading-notes/201classes/class-10)|
 |Day 11   | [Class 11](https://amjadmesmar.github.io/reading-notes/201classes/class-11)|
-|Day 12   | Link12|
-|Day 13   | Link13|
-|Day 14   | Link14|
-|Day 15   | Link15|
+|Day 12   | [Class 12](https://amjadmesmar.github.io/reading-notes/201classes/class-12)|
+|Day 13   | [Class 13](https://amjadmesmar.github.io/reading-notes/201classes/class-13)|
+|Day 14   | [Class 14](https://amjadmesmar.github.io/reading-notes/201classes/class-14)|
+|Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/201classes/class-15)|

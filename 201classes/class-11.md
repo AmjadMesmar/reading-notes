@@ -76,8 +76,6 @@
 
 - The ***HTMLMediaElement*** API makes a wealth of functionality available for creating simple video and audio players, and that's only the tip of the iceberg. See the "See also" section below for links to more complex and interesting functionality.
 
-
-
 **References:**
 
 - HTML & CSS Design and Build Websites
