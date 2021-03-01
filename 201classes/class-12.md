@@ -35,7 +35,7 @@ If you test your file in a browser you’ll now see a cool animated line graph.
 
 - At first sight a <***canvas***> looks like the <***img***> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <***canvas***> element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
 
-![Charts](Images201/canvas1.png)
+![Canvas](Images201/canvas1.png)
 
 ## Fallback content
 
@@ -45,7 +45,7 @@ If you test your file in a browser you’ll now see a cool animated line graph.
 
 - For example, we could provide a text description of the canvas content or provide a static image of the dynamically rendered content. This can look something like this:
 
-![Charts](Images201/canvas2.png)
+![Canvas](Images201/canvas2.png)
 
 ## The rendering context
 
@@ -53,10 +53,72 @@ If you test your file in a browser you’ll now see a cool animated line graph.
 
 - The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. The <***canvas***> element has a method called ***getContext()***, used to obtain the rendering context and its drawing functions. ***getContext()*** takes one parameter, the type of context. For 2D graphics, such as those covered by this tutorial, you specify "2d" to get a ***CanvasRenderingContext2D***.
 
-![Charts](Images201/canvas3.png)
+![Canvas](Images201/canvas3.png)
 
 - The first line in the script retrieves the node in the DOM representing the <***canvas***> element by calling the ***document.getElementById()*** method. Once you have the element node, you can access the drawing context using its ***getContext()*** method.
 
+## Article 3: Drawing shapes with canvas
+
+## The grid
+
+- Before we can start drawing, we need to talk about the canvas ***grid*** or coordinate space. Our HTML skeleton from the previous page had a canvas element 150 pixels wide and 150 pixels high. To the right, you see this canvas with the default ***grid*** overlayed. Normally 1 unit in the ***grid*** corresponds to 1 pixel on the canvas. The origin of this ***grid*** is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin. So the position of the top left corner of the blue square becomes x pixels from the left and y pixels from the top, at coordinate (x,y). Later in this tutorial we'll see how we can translate the origin to a different position, rotate the ***grid*** and even scale it, but for now we'll stick to the default.
+
+![Canvas](Images201/canvas4.png)
+
+## Drawing rectangles
+
+- Unlike SVG, <***canvas***> only supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.
+
+First let's look at the rectangle. There are three functions that draw rectangles on the canvas:
+
+- Each of these three functions takes the same parameters. x and y specify the position on the canvas (relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
+
+![Canvas](Images201/canvas5.png)
+
+![Canvas](Images201/canvas6.png)
+
+- The ***fillRect()*** function draws a large black square 100 pixels on each side. The ***clearRect()*** function then erases a 60x60 pixel square from the center, and then ***strokeRect()*** is called to create a rectangular outline 50x50 pixels within the cleared square.
+
+In upcoming pages we'll see two alternative methods for ***clearRect()***, and we'll also see how to change the color and stroke style of the rendered shapes.
+
+Unlike the path functions we'll see in the next section, all three rectangle functions draw immediately to the canvas.
+
+## Article 4: Applying styles and colors
+
+## A fillStyle example
+
+- In this example, we once again use two ***for*** loops to draw a grid of rectangles, each in a different color. The resulting image should look something like the screenshot. There is nothing too spectacular happening here. We use the two variables ***i*** and ***j*** to generate a unique RGB color for each square, and only modify the red and green values. The blue channel has a fixed value. By modifying the channels, you can generate all kinds of palettes. By increasing the steps, you can achieve something that looks like the color palettes Photoshop uses.
+
+![Canvas](Images201/canvas7.png)
+![Canvas](Images201/canvas8.png)
+
+## A globalAlpha example
+
+- In this example, we'll draw a background of four different colored squares. On top of these, we'll draw a set of semi-transparent circles. The ***globalAlpha*** property is set at 0.2 which will be used for all shapes from that point on. Every step in the ***for*** loop draws a set of circles with an increasing radius. The final result is a radial gradient. By overlaying ever more circles on top of each other, we effectively reduce the transparency of the circles that have already been drawn. By increasing the step count and in effect drawing more circles, the background would completely disappear from the center of the image.
+
+![Canvas](Images201/canvas9.png)
+![Canvas](Images201/canvas10.png)
+
+## Article 5: Drawing text
+
+## A fillText example
+
+- The text is filled using the current ***fillStyle***.
+
+![Canvas](Images201/canvas11.png)
+![Canvas](Images201/canvas12.png)
+
+## A strokeText example
+
+- The text is filled using the current ***strokeStyle***.
+
+![Canvas](Images201/canvas13.png)
+![Canvas](Images201/canvas14.png)
+
+## A textBaseline example
+
+![Canvas](Images201/canvas15.png)
+![Canvas](Images201/canvas16.png)
 **References:**
 
 - EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS [Read the full article here](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
