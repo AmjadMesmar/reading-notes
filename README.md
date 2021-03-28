@@ -38,7 +38,9 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |201-Day 14   | [Class 14](https://amjadmesmar.github.io/reading-notes/201classes/class-14)|
 |201-Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/201classes/class-15)|
 
-![|Infinity](Images/Galaxy.gif)
+
+![Galaxy](Images/Galaxy.gif)
+
 
 ## Code 301 - Intermediate Software Development
 
@@ -82,4 +84,6 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |401-Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/401classes/class-15)|
 |401-Day 16   | [Class 15](https://amjadmesmar.github.io/reading-notes/401classes/class-16)|
 
-![|Infinity](Images/Infinity.gif)
+
+![Infinity](Images/Infinity.gif)
+
