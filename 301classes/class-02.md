@@ -7,9 +7,8 @@
 
 ![JQuery](../301classes/Images301/JQ-and-JS.jpg)
 
-
-![JQuery](../301classes/Images301/jquery5.jpg)
-
+![JQuery](../301classes/Images301/jquery5a.png)
+![JQuery](../301classes/Images301/jquery5b.png)
 
 ![JQuery](../301classes/Images301/jquery6.png)
 
@@ -19,19 +18,11 @@
 jQuery allows you to recreate the functionality of a loop on a selection of elements, using the **.each ()** method.
 
 ![JQuery](../301classes/Images301/jquery.png)
-
-
 ![JQuery](../301classes/Images301/jquery1.png)
-
-
 ![JQuery](../301classes/Images301/jquery2.png)
-
-
 ![JQuery](../301classes/Images301/jquery3.png)
-
-
 ![JQuery](../301classes/Images301/jquery4.png)
-
+![JQuery](../301classes/Images301/jquery7.png)
 
 **References:**
 
