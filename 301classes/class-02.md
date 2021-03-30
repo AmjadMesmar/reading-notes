@@ -8,7 +8,7 @@
 ![JQuery](../301classes/Images301/JQ-and-JS.jpg)
 
 
-![JQuery](../301classes/Images301/jquery5.png)
+![JQuery](../301classes/Images301/jquery5.jpg)
 
 
 ![JQuery](../301classes/Images301/jquery6.png)
