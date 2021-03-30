@@ -7,9 +7,12 @@
 
 ![JQuery](../301classes/Images301/JQ-and-JS.jpg)
 
+
 ![JQuery](../301classes/Images301/jquery5.png)
 
+
 ![JQuery](../301classes/Images301/jquery6.png)
+
 
 ## WORKING WITH EACH ELEMENT IN A SELECTION
 
@@ -17,13 +20,18 @@ jQuery allows you to recreate the functionality of a loop on a selection of elem
 
 ![JQuery](../301classes/Images301/jquery.png)
 
+
 ![JQuery](../301classes/Images301/jquery1.png)
+
 
 ![JQuery](../301classes/Images301/jquery2.png)
 
+
 ![JQuery](../301classes/Images301/jquery3.png)
 
+
 ![JQuery](../301classes/Images301/jquery4.png)
+
 
 **References:**
 
