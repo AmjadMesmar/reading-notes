@@ -9,17 +9,14 @@ One of the most interesting features is that once you’ve learned the syntax, y
 Let’s start by looking at some examples and explanations.
 
 - ***Basic topics***
-**Anchors — ^ and $**
 
+**Anchors — ^ and $**
 
 ![Regex](/301classes/Images301/regex1.png)
 
-
 **Quantifiers — * + ? and {}**
 
-
 ![Regex](/301classes/Images301/regex2.png)
-
 
 - **Summary**
 
@@ -45,9 +42,7 @@ Values:
 - grid – generates a block-level grid
 - inline-grid – generates an inline-level grid
 
-
-![Regex](/301classes/Images301/grid1.png)
-
+![Regex](./301classes/Images301/grid1.png)
 
 - ***Properties for the Children(Grid Items)***
 
