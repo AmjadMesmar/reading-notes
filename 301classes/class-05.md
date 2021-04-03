@@ -14,19 +14,27 @@ To be honest, this is not what typically happens when you are surfing the web. B
 - ***Pretty simple, but it's a server!***
 First of all, we need to create a JavaScript file. Let's name it server.js:
 
+
 ![server](/301classes/Images301/server1.png)
+
 
 It's simple. It's tiny. But it's a server! Let's make sure it's working. Run at your terminal:
 
+
 ![server](/301classes/Images301/server2.png)
+
 
 Then check it in your browser. Your new server's address, as you may guess, is http://localhost:3000/ Mine is working. How about yours? Hope, it's working too.
 
+
 ![server](/301classes/Images301/server3.png)
+
 
 Now, to be sure it's a web server and not just a piece of code that returns a single line of text, we'll use it as a server! You can check it with your smartphone. Let's suppose, your laptop's IP address within your local network is 192.168.1.101. You can connect to your server through the 3000th port (for this particular example) by typing http://192.168.1.101:3000/ in your browser. Works well in my case:
 
+
 ![server](/301classes/Images301/server4.png)
+
 
 To start your server locally run:
 
