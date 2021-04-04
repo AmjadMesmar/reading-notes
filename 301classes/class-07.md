@@ -84,6 +84,8 @@ SuperAgent is light-weight progressive ajax API crafted for flexibility, readabi
           .then(res => {
 
          });
+         
+
 **References:**
 
 - How I explained REST to my brother [Read the full article here](https://visionmedia.github.io/superagent/)
