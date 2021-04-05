@@ -78,13 +78,15 @@ SuperAgent is light-weight progressive ajax API crafted for flexibility, readabi
 - Or joined:
 
         request
-        .get('/querystring')
-         .query('search=Manny')
-         .query('range=1..5')
-          .then(res => {
+                 .get('/querystring')
+                 .query('search=Manny')
+                 .query('range=1..5')
+                       .then(res => {
 
-         });
-         
+                   });
+
+
+
 
 **References:**
 
