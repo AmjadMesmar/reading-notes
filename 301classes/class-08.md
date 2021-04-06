@@ -1,6 +1,6 @@
 # Introduction to SQL
 
-![SQL](/301classes/Images301/sql.webp)
+![SQL](Images301/sql.webp)
 
 ## What is SQL?
 
@@ -16,7 +16,7 @@ Before learning the SQL syntax, it's important to have a model for what a relati
 
 For example, if the Department of Motor Vehicles had a database, you might find a table containing all the known vehicles that people in the state are driving. This table might need to store the model name, type, number of wheels, and number of doors of each vehicle for example.
 
-![SQL](/301classes/Images301/sql1.png)
+![SQL](Images301/sql1.png)
 
 - In such a database, you might find additional related tables containing information such as a list of all registered drivers in the state, the types of driving licenses that can be granted, or even driving violations for each driver.
 
@@ -61,7 +61,7 @@ In order to filter certain results from being returned, we need to use a WHERE c
 
 - More complex clauses can be constructed by joining numerous AND or OR logical keywords (ie. num_wheels >= 4 AND doors <= 2). And below are some useful operators that you can use for numerical data (ie. integer or floating point):
 
-![SQL](/301classes/Images301/sql2.png)
+![SQL](Images301/sql2.png)
 
 - In addition to making the results more manageable to understand, writing clauses to constrain the set of rows returned also allows the query to run faster due to the reduction in unnecessary data being returned.
 
@@ -71,7 +71,7 @@ As you might have noticed by now, SQL doesn't require you to write the keywords 
 
 - When writing WHERE clauses with columns containing text data, SQL supports a number of useful operators to do things like case-insensitive string comparison and wildcard pattern matching. We show a few common text-data specific operators below:
 
-![SQL](/301classes/Images301/sql3.png)
+![SQL](Images301/sql3.png)
 
 - Did you know?
 

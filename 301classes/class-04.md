@@ -12,11 +12,11 @@ Let’s start by looking at some examples and explanations.
 
 **Anchors — ^ and $**
 
-![Regex](../301classes/Images301/regex1.png)
+![Regex](Images301/regex1.png)
 
 **Quantifiers — * + ? and {}**
 
-![Regex](../301classes/Images301/regex2.png)
+![Regex](Images301/regex2.png)
 
 - **Summary**
 

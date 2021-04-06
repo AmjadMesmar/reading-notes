@@ -6,7 +6,7 @@ Javascript templating is a fast and efficient technique to render client-side vi
 
 The template engine then replaces variables and instances declared in a template file with actual values at runtime, and convert the template into an HTML file sent to the client.
 
-![JQuery](../301classes/Images301/mustache.png)
+![JQuery](Images301/mustache.png)
 
 Mustache is a logic-less template syntax. It can be used for HTML, config files, source code — anything. It works by expanding tags in a template using values provided in a hash or object.
 
@@ -14,7 +14,7 @@ It is often referred to as “logic-less” because there are no if statements, 
 
 mustache.js is an implementation of the mustache template system in JavaScript. It is often considered the base for JavaScript templating. And, since mustache supports various languages, we don’t need a separate templating system on the server side.
 
-![JQuery](../301classes/Images301/mustache1.png)
+![JQuery](Images301/mustache1.png)
 
 In the above, we see two braces around {{ name }}. This is Mustache syntax to show that it is a placeholder. When Mustache compiles this, it will look for the ‘name’ property in the object we pass in, and replace {{ name }} with the actual value, e,g, “Sherlynn”.
 
@@ -34,9 +34,9 @@ Most importantly, the flexbox layout is direction-agnostic as opposed to the reg
 
 - **Flexbox properties**
 
-![JQuery](../301classes/Images301/flexbox.png)
+![JQuery](Images301/flexbox.png)
 
-![JQuery](../301classes/Images301/flexbox1.png)
+![JQuery](Images301/flexbox1.png)
 
 - By default, flex items are laid out in the source order. However, the order property controls the order in which they appear in the flex container.
 
@@ -44,7 +44,7 @@ Most importantly, the flexbox layout is direction-agnostic as opposed to the reg
        order: 5; /* default is 0 */
        }
 
-![JQuery](../301classes/Images301/flexbox2.png)
+![JQuery](Images301/flexbox2.png)
 
 This defines the default behavior for how flex items are laid out along the cross axis on the current line. Think of it as the justify-content version for the cross-axis (perpendicular to the main-axis).
 

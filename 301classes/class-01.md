@@ -1,6 +1,6 @@
 # Responsive Web Design
 
-![Responsive](../301classes/Images301/responsive-design.jpeg)
+![Responsive](Images301/responsive-design.jpeg)
 
 These days it is hard to find someone who doesn’t own a mobile device, or multiple, connected to the Internet. In the UK there are more mobile phones than people, and should trends continue mobile Internet usage will surpass that of desktop Internet usage within the year.
 
@@ -28,11 +28,11 @@ Maximum of the viewport’s height and width.
 
 There are a couple different ways to use media queries, using the ***@media*** rule inside of an existing style sheet, importing a new style sheet using the ***@import*** rule, or by linking to a separate style sheet from within the HTML document. Generally speaking it is recommend to use the ***@media*** rule inside of an existing style sheet to avoid any additional HTTP requests.
 
-![Responsive](../301classes/Images301/rwd.png)
+![Responsive](Images301/rwd.png)
 
 ## All About Floats
 
-![Responsive](../301classes/Images301/FloatRef.gif)
+![Responsive](Images301/FloatRef.gif)
 
 - What is “Float”?
 
@@ -44,18 +44,18 @@ In page layout programs, the boxes that hold the text can be told to honor the t
 
 Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
 
-![Responsive](../301classes/Images301/rwd1.webp)
+![Responsive](Images301/rwd1.webp)
 
 Floats are also helpful for layout in smaller instances. Take for example this little area of a web page. If we use float for our little avatar image, when that image changes size the text in the box will reflow to accommodate:
 
-![Responsive](../301classes/Images301/rwd2.webp)
+![Responsive](Images301/rwd2.webp)
 
 - **Problems with Floats**
 
 Floats often get beat on for being fragile. The majority of this fragility comes from IE 6 and the slew of float-related bugs it has. As more and more designers are dropping support for IE 6, you may not care, but for the folks that do care here is a quick rundown.
 
 1. ***Pushdown*** is a symptom of an element inside a floated item being wider than the float itself (typically an image). Most browsers will render the image outside the float, but not have the part sticking out affect other layout. IE will expand the float to contain the image, often drastically affecting layout. A common example is an image sticking out of the main content push the sidebar down below.
-![Responsive](../301classes/Images301/rwd3.webp)
+![Responsive](Images301/rwd3.webp)
 2. ***Double Margin Bug*** – Another thing to remember when dealing with IE 6 is that if you apply a margin in the same direction as the float, it will double the margin. Quick fix: set display: inline on the float, and don’t worry it will remain a block-level element.
 
 3. The ***3px Jog*** is when text that is up next to a floated element is mysteriously kicked away by 3px like a weird forcefield around the float. Quick fix: set a width or height on the affected text.
@@ -64,7 +64,7 @@ Floats often get beat on for being fragile. The majority of this fragility comes
 
 ## Don’t Overthink It Grids
 
-![Responsive](../301classes/Images301/grids.gif)
+![Responsive](Images301/grids.gif)
 
 The vast majority of websites out there use a grid. They may not explicitly have a grid system in place, but if they have a “main content area” floated to the left a “sidebar” floated to the right, it’s a simple grid.
 
@@ -74,7 +74,7 @@ If a more complex layout presents itself, people often reach for a grid framewor
 
 A block level element is as wide as the parent it’s inside (***width: auto;***). We can think of it as 100% wide. The wrapper for a grid probably don’t have much to do with semantics, it’s just a generic wrapper, so a ***div*** is fine.
 
-![Responsive](../301classes/Images301/rwd4.png)
+![Responsive](Images301/rwd4.png)
 
 - Gutters
 
@@ -82,14 +82,14 @@ The hardest part about grids is gutters. So far we’ve made our grid flexible b
 
 The first step toward this is using box-sizing: border-box;. I like using it on absolutely everything.
 
-![Responsive](../301classes/Images301/rwd5.png)
+![Responsive](Images301/rwd5.png)
 
 Now when we set a width, that element stays that width, despite padding or borders being applied.
 
 The second step is applying a fixed padding to the right side of all columns except the last one.
 
-![Responsive](../301classes/Images301/rwd6.png)
-![Responsive](../301classes/Images301/rwd7.png)
+![Responsive](Images301/rwd6.png)
+![Responsive](Images301/rwd7.png)
 
 That’s all there is to basic gutters.
 
@@ -99,17 +99,17 @@ That’s all there is to basic gutters.
 
 Actually, floats are pretty similar to the dynamics of riding an escalator, and I am going to show how they can be used alongside the clear property to create crystal-clear relationships within divs. This way, the next time you try to use floats in your code, you won’t encounter any surprises.
 
-![Responsive](../301classes/Images301/float.jpeg)
+![Responsive](Images301/float.jpeg)
 
 - **Floats: Left and Right**
 
 Using floats can introduce up to two new flows: left and right.
 
-![Responsive](../301classes/Images301/float1.png)
+![Responsive](Images301/float1.png)
 
 And this allows the normal flow of elements, those without a float value, to fill in the spaces around these elements.
 
-![Responsive](../301classes/Images301/float2.png)
+![Responsive](Images301/float2.png)
 
 - Floats allow you to create these new relationships between flows.
 
@@ -119,7 +119,7 @@ This allows you to create more readable and understandable code, because the flo
 
 ## SMACSS Official Documentation
 
-![Responsive](../301classes/Images301/smacss.webp)
+![Responsive](Images301/smacss.webp)
 
 “SMACSS is becoming one of the most useful contributions to front-end discussions in years” *
 
@@ -165,7 +165,7 @@ Much of the purpose of categorizing things is to codify patterns—things that r
 
 Finally, **Theme rules** are similar to state rules in that they describe how modules or layouts might look. Most sites don’t require a layer of theming but it is good to be aware of it.
 
-![Responsive](../301classes/Images301/smacss1.png)
+![Responsive](Images301/smacss1.png)
 
 **References:**
 
