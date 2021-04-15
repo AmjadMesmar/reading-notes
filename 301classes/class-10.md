@@ -36,7 +36,7 @@ The code above would be executed like this:
 
 3. Execute all lines of code inside the greeting() function.
 4. Get to the sayHi() function invocation.
-6. Add the sayHi() function to the call stack list.
+5. Add the sayHi() function to the call stack list.
 
         Call stack list:
         - sayHi

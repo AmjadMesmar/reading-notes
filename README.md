@@ -61,7 +61,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |301-Day 13   | [Class 13](https://amjadmesmar.github.io/reading-notes/301classes/class-13)|
 |301-Day 14   | [Class 14](https://amjadmesmar.github.io/reading-notes/301classes/class-14)|
 |301-Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/301classes/class-15)|
-|301-Day 16   | [Class 15](https://amjadmesmar.github.io/reading-notes/301classes/class-16)|
+|301-Day 16   | [Class 16](https://amjadmesmar.github.io/reading-notes/301classes/class-16)|
 
 ## Code 401 - Advanced Software Development
 
