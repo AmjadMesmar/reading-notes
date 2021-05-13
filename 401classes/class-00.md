@@ -144,6 +144,4 @@ Keep a close watch on how effectively your counter-measures eliminate or minimiz
 
 - Solving Problems. [Read the full article here](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
-- SQL cheatsheet [Check it out](http://www.cheat-sheets.org/sites/sql.su/)
-
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)
