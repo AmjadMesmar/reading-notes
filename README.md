@@ -38,9 +38,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |201-Day 14   | [Class 14](https://amjadmesmar.github.io/reading-notes/201classes/class-14)|
 |201-Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/201classes/class-15)|
 
-
 ![Galaxy](Images/Galaxy.gif)
-
 
 ## Code 301 - Intermediate Software Development
 
@@ -67,6 +65,7 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 
 | Topic | Link |
 |-------|------|
+|401-Day 00   | [Class 00](https://amjadmesmar.github.io/reading-notes/401classes/class-00)|
 |401-Day 01   | [Class 01](https://amjadmesmar.github.io/reading-notes/401classes/class-01)|
 |401-Day 02   | [Class 02](https://amjadmesmar.github.io/reading-notes/401classes/class-02)|
 |401-Day 03   | [Class 03](https://amjadmesmar.github.io/reading-notes/401classes/class-03)|
@@ -82,8 +81,35 @@ Hello, thanks for checking my website! My name is Amjad Mesmar,I graduated  with
 |401-Day 13   | [Class 13](https://amjadmesmar.github.io/reading-notes/401classes/class-13)|
 |401-Day 14   | [Class 14](https://amjadmesmar.github.io/reading-notes/401classes/class-14)|
 |401-Day 15   | [Class 15](https://amjadmesmar.github.io/reading-notes/401classes/class-15)|
-|401-Day 16   | [Class 15](https://amjadmesmar.github.io/reading-notes/401classes/class-16)|
-
+|401-Day 16   | [Class 16](https://amjadmesmar.github.io/reading-notes/401classes/class-16)|
+|401-Day 17   | [Class 17](https://amjadmesmar.github.io/reading-notes/401classes/class-17)|
+|401-Day 18   | [Class 18](https://amjadmesmar.github.io/reading-notes/401classes/class-18)|
+|401-Day 19   | [Class 19](https://amjadmesmar.github.io/reading-notes/401classes/class-19)|
+|401-Day 20   | [Class 20](https://amjadmesmar.github.io/reading-notes/401classes/class-20)|
+|401-Day 21   | [Class 21](https://amjadmesmar.github.io/reading-notes/401classes/class-21)|
+|401-Day 22   | [Class 22](https://amjadmesmar.github.io/reading-notes/401classes/class-22)|
+|401-Day 23   | [Class 23](https://amjadmesmar.github.io/reading-notes/401classes/class-23)|
+|401-Day 24   | [Class 24](https://amjadmesmar.github.io/reading-notes/401classes/class-24)|
+|401-Day 25   | [Class 25](https://amjadmesmar.github.io/reading-notes/401classes/class-25)|
+|401-Day 26   | [Class 26](https://amjadmesmar.github.io/reading-notes/401classes/class-26)|
+|401-Day 27   | [Class 27](https://amjadmesmar.github.io/reading-notes/401classes/class-27)|
+|401-Day 28   | [Class 28](https://amjadmesmar.github.io/reading-notes/401classes/class-28)|
+|401-Day 29   | [Class 29](https://amjadmesmar.github.io/reading-notes/401classes/class-29)|
+|401-Day 30   | [Class 30](https://amjadmesmar.github.io/reading-notes/401classes/class-30)|
+|401-Day 31   | [Class 31](https://amjadmesmar.github.io/reading-notes/401classes/class-31)|
+|401-Day 32   | [Class 32](https://amjadmesmar.github.io/reading-notes/401classes/class-32)|
+|401-Day 33   | [Class 33](https://amjadmesmar.github.io/reading-notes/401classes/class-33)|
+|401-Day 34   | [Class 34](https://amjadmesmar.github.io/reading-notes/401classes/class-34)|
+|401-Day 35   | [Class 35](https://amjadmesmar.github.io/reading-notes/401classes/class-35)|
+|401-Day 36   | [Class 36](https://amjadmesmar.github.io/reading-notes/401classes/class-36)|
+|401-Day 37   | [Class 37](https://amjadmesmar.github.io/reading-notes/401classes/class-37)|
+|401-Day 38   | [Class 38](https://amjadmesmar.github.io/reading-notes/401classes/class-38)|
+|401-Day 39   | [Class 39](https://amjadmesmar.github.io/reading-notes/401classes/class-39)|
+|401-Day 40   | [Class 40](https://amjadmesmar.github.io/reading-notes/401classes/class-40)|
+|401-Day 41   | [Class 41](https://amjadmesmar.github.io/reading-notes/401classes/class-41)|
+|401-Day 42   | [Class 42](https://amjadmesmar.github.io/reading-notes/401classes/class-42)|
+|401-Day 43   | [Class 43](https://amjadmesmar.github.io/reading-notes/401classes/class-43)|
+|401-Day 44   | [Class 44](https://amjadmesmar.github.io/reading-notes/401classes/class-44)|
+|401-Day 45   | [Class 45](https://amjadmesmar.github.io/reading-notes/401classes/class-45)|
 
 ![Infinity](Images/Infinity.gif)
-
