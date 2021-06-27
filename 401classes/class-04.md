@@ -36,6 +36,6 @@ The reason for this is that computer science — and effectively, anything that 
 
 The same goes for Big O Notation, but on a much lower level. Big O Notation is a way of evaluating the performance of an algorithm.
 
-**References:**
+#### References
 
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)

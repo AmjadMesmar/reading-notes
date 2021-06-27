@@ -81,7 +81,7 @@ And we continue onwards. When we reach a node that doesn’t have any children, 
 
 ![Image](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/images/BreadthTraversal8.PNG)
 
-**References:**
+#### References
 
 - Trees [Read full article](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html))
 

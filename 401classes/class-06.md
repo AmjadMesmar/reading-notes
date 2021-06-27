@@ -94,7 +94,7 @@ When receiving the message, Bob can also calculate Hash(payload + secret) to che
 
 Let's suppose, I send another person the message {"id":1} and sign it with Hash(content + secret). (+ is just concatenation here). I use the SHA256 Hash function, and the signature I get is: 330e7b0775561c6e95797d4dd306a150046e239986f0a1373230fda0235bda8c. Now it's your turn: play the role of Mallory and try to sign the message {"id":2}. You can't because you don't know which secret I used. If I suppose that the recipient knows the secret, he CAN calculate the signature of any message and check if it's correct.
 
-**References:**
+#### References
 
 - JWTs Explained [Check it out](https://www.youtube.com/watch?v=926mknSW9Lo)
 

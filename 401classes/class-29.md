@@ -266,7 +266,7 @@ From here, we can just start filling in the tests one by one. I also like to cre
         });
         });
 
-**References:**
+#### References
 
 - Dan Abramov Redux Tutorials [Check it out](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 

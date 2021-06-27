@@ -177,7 +177,7 @@ We can start by encapsulating how the clock looks:
 
         setInterval(tick, 1000);
 
-## Components and Props
+### Components and Props
 
 Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. This page provides an introduction to the idea of components. You can find a detailed component API reference here.
 
@@ -204,7 +204,7 @@ The above two components are equivalent from React’s point of view.
 
 Function and Class components both have some additional features that we will discuss in the next sections.
 
-**References:**
+#### References
 
 - setState explained [Read full article](https://css-tricks.com/understanding-react-setstate/)
 

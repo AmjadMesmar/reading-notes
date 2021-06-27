@@ -187,7 +187,8 @@ Implementing a RBAC into your organization shouldn’t happen without a great de
 5. Continually Adapt: It’s likely that the first iteration of RBAC will require some tweaking. Early on, you should evaluate your roles and security status frequently. Assess first, how well the creative/production process is working and secondly, how secure your process happens to be.
 
 A core business function of any organization is protecting data. An RBAC system can ensure the company's information meets privacy and confidentiality regulations. Furthermore, it can secure key business processes, including access to IP, that affect the business from a competitive standpoint.
-**References:**
+
+#### References
 
 - what is role based access control? [Read full article](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 

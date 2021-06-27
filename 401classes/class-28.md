@@ -74,7 +74,7 @@ A disconnected graph is a graph where some vertices may not have edges.
 
 In the above visual, the disconnected graph shows that some nodes may not always be connected to other nodes or vertices of the graph. It is complelty possible to have standalone nodes or edges (also known as islands) in a graph data structure.
 
-**References:**
+#### References
 
 - Graphs [Read full article](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html)
 

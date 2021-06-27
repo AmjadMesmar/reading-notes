@@ -176,7 +176,7 @@ Effects Without Cleanup
 
 Sometimes, we want to run some additional code after React has updated the DOM. Network requests, manual DOM mutations, and logging are common examples of effects that don’t require a cleanup. We say that because we can run them and immediately forget about them. Let’s compare how classes and Hooks let us express such side effects.
 
-**References:**
+#### References
 
 - making sense of hooks [Read full article](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 

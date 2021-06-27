@@ -170,7 +170,7 @@ One implementation of OAuth 2.0 with numerous security flaws has been exposed.
 
 In April and May 2017, about one million users of Gmail (less than 0.1% of users as of May 2017) were targeted by an OAuth-based phishing attack, receiving an email purporting to be from a colleague, employer or friend wanting to share a document on Google Docs.Those who clicked on the link within the email were directed to sign in and allow a potentially malicious third-party program called "Google Apps" to access their "email account, contacts and online documents".Within "approximately one hour",[25] the phishing attack was stopped by Google, who advised those who had given "Google Apps" access to their email to revoke such access and change their passwords.
 
-**References:**
+#### References
 
 - OAuth2 simplified  [Read the full article here](https://aaronparecki.com/oauth-2-simplified/)
 

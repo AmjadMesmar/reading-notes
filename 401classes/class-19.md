@@ -123,7 +123,7 @@ Consider this ticking clock example:
 
         setInterval(tick, 1000);
 
-**References:**
+#### References
 
 - react hello world [Read full article](https://reactjs.org/docs/hello-world.html)
 

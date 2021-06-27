@@ -26,7 +26,7 @@ So the next thing we’re going to do for a classical singleton is actually retu
 
 - Singleton Pattern: In software engineering, the singleton pattern is a software design pattern that restricts the instantiation of a class to one "single" instance. This is useful when exactly one object is needed to coordinate actions across the system. The term comes from the mathematical concept of a singleton.
 
-- CRUD -> REST Method Matches: 
+- CRUD -> REST Method Matches:
 
         Create = PUT with a new URI
         POST to a base URI returning a newly created URI
@@ -95,7 +95,7 @@ For example, if the browser uses Aladdin as the username and open sesame as the 
 
         Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==
 
-**References:**
+#### References
 
 - Securing Passwords. [Read the full article here](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
 

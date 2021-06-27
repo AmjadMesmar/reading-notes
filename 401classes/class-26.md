@@ -267,7 +267,7 @@ This pattern is sufficient for many cases when you need to decouple a child from
 
 However, sometimes the same data needs to be accessible by many components in the tree, and at different nesting levels. Context lets you “broadcast” such data, and changes to it, to all components below. Common examples where using context might be simpler than the alternatives include managing the current locale, theme, or a data cache.
 
-**References:**
+#### References
 
 - context api [Read full article](https://reactjs.org/docs/context.html)
 

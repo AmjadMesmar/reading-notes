@@ -70,7 +70,7 @@ Role authorization: A subject's active role must be authorized for the subject. 
 
 Permission authorization: A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
 
-**References:**
+#### References
 
 - RBAC tutorial[Check it out](https://www.youtube.com/watch?v=C4NP8Eon3cA)
 

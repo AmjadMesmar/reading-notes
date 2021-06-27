@@ -147,7 +147,7 @@ CyberHoot’s best advice to an SMB is to know what a CDN is, and at most, estab
 
 Mid-to-Large enterprises should have contracts in place to protect themselves in seconds when hit with a DDOS attack. SMB’s should not. Although, if you are looking to employ a CDN; Akamai, Cloudflare and Arbor Networks all operate CDN’s in addition to DDOS solutions.
 
-**References:**
+#### References
 
 - AWS S3 [Read full article](https://aws.amazon.com/s3/)
 

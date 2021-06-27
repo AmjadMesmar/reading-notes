@@ -78,7 +78,7 @@ DynamoDB is a hosted NoSQL database offered by Amazon Web Services (AWS). It off
 2. a managed experience, so you won't be SSH-ing into servers to upgrade the crypto libraries;
 3. a small, simple API allowing for simple key-value access as well as more advanced query patterns.
 
-### DynamoDB is a particularly good fit for the following use cases:
+### DynamoDB is a particularly good fit for the following use cases
 
 Applications with large amounts of data and strict latency requirements. As your amount of data scales, JOINs and advanced SQL operations can slow down your queries. With DynamoDB, your queries have predictable latency up to any size, including over 100 TBs!
 
@@ -172,7 +172,7 @@ Use DynamoDB and AWS AppSync to build interactive mobile and web apps with real-
 
 Build flexible and reusable microservices using DynamoDB as a serverless data store for consistent and fast performance.
 
-**References:**
+#### References
 
 - AWS API Gateway Overview [Read full article](https://www.serverless.com/amazon-api-gateway)
 

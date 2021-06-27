@@ -72,7 +72,7 @@ We could expand further by creating events for when a user logs out, when a mess
 - An Event Handler is a callback function that will be called when an event is triggered.
 - A Main Loop listens for event triggers and calls the associated event handler for that event.
 
-**References:**
+#### References
 
 - Event Driven Programming [Read the full article here](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 

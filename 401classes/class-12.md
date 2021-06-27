@@ -219,7 +219,7 @@ Example:
         console.log(`socket ${id} has joined room ${room}`);
       });
 
-**References:**
+#### References
 
 - Socket.io Chat Example [Check it out](https://socket.io/get-started/chat/)
 

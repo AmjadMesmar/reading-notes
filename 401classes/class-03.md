@@ -2,7 +2,7 @@
 
 ## Review, Research, and Discussion
 
-### Advantages to Test Driven Development:
+### Advantages to Test Driven Development
 
 1. Better program design and higher code quality.
 
@@ -55,6 +55,6 @@ As TDD influences the planning of code, it’s recommended that either all the m
 
 10. Data Model: A data model (or datamodel) is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities. ... So the "data model" of a banking application may be defined using the entity-relationship "data model".
 
-**References:**
+#### References
 
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)

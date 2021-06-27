@@ -58,7 +58,7 @@ The CLI runs from a terminal, and is how most developers interact with npm.
 8. Manage multiple versions of code and code dependencies.
 9. Update applications easily when underlying code is updated.
 10. Discover multiple ways to solve the same puzzle.
-11. Find other developers who are working on similar problems and projects. 
+11. Find other developers who are working on similar problems and projects.
 
 ## What is TDD?
 
@@ -108,7 +108,7 @@ It can be succinctly described by the following set of rules:
 
 3. able to “test drive” a variety of technical domains: computation, user interfaces, persistent data access.
 
-**References:**
+#### References
 
 - An introduction to NodeJS and Express. [Read the full article here](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 

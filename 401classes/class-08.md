@@ -16,7 +16,7 @@ Common terminology for a stack is
 
 5. IsEmpty - returns true when stack is empty otherwise returns false.
 
-## Stacks follow these concepts:
+## Stacks follow these concepts
 
 ### FILO
 
@@ -52,7 +52,7 @@ Common terminology for a queue is
 
 6. IsEmpty - returns true when queue is empty otherwise returns false.
 
-## Queues follow these concepts:
+## Queues follow these concepts
 
 ## FIFO
 
@@ -72,7 +72,7 @@ Here is what a Queue looks like:
 
 ![Queue](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/images/Queue.PNG)
 
-**References:**
+#### References
 
 - Stacks and Queues [Read the full article here](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html)
 

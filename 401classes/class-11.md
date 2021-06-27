@@ -30,7 +30,7 @@ If you are using TCP, you might have to add a delay in connecting a client after
 
 - Observer Pattern: The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes, usually by calling one of their methods.
 
-- Listener: About 13,200,000 results (0.52 seconds) 
+- Listener: About 13,200,000 results (0.52 seconds)
 An event listener is a procedure or function in a computer program that waits for an event to occur. ... The listener is programmed to react to an input or signal by calling the event's handler. The term event listener is often specific to Java and JavaScript.
 
 - Event Handler: Image result for Event Handler in programming
@@ -95,7 +95,7 @@ Key features of WebSocket:
 
 4. The major advantage it stands over an HTTP connection that it provides full-duplex communication.
 
-**References:**
+#### References
 
 - OSI Model Explained [Check it out](https://www.youtube.com/watch?v=vv4y_uOneC0)
 

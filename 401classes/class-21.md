@@ -179,7 +179,7 @@ Props and composition give you all the flexibility you need to customize a compo
 
 If you want to reuse non-UI functionality between components, we suggest extracting it into a separate JavaScript module. The components may import it and use that function, object, or a class, without extending it.
 
-**References:**
+#### References
 
 - react basics recap [Read full article](https://www.freecodecamp.org/news/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030/)
 

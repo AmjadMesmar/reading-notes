@@ -372,7 +372,7 @@ Basically, what this hook does is that, it takes a parameter with value true or 
         return [state, toggle]
     }
 
-**References:**
+#### References
 
 - custom hooks - all you need to know[Read full article](https://www.telerik.com/blogs/everything-you-need-to-create-a-custom-react-hook)
 

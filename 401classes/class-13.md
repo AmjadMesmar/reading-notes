@@ -38,7 +38,7 @@ Subscribers may register for specific messages at build time, initialization tim
 
 The Data Distribution Service (DDS) middleware does not use a broker in the middle. Instead, each publisher and subscriber in the pub/sub system shares meta-data about each other via IP multicast. The publisher and the subscribers cache this information locally and route messages based on the discovery of each other in the shared cognizance. In effect, brokerless architectures require publish/subscribe system to construct an overlay network which allows efficient decentralized routing from publishers to subscribers. It was shown by Jon Kleinberg that efficient decentralised routing requires Navigable Small-World topologies. Such Small-World topologies are usually implemented by decentralized or federated publish/subscribe systems.[1] Locality-aware publish/subscribe systems[2] construct Small-World topologies that route subscriptions through short-distance and low-cost links thereby reducing subscription delivery times.
 
-**References:**
+#### References
 
 - AWS SNS and SQS[Check it out](https://www.youtube.com/watch?v=mXk0MNjlO7A)
 

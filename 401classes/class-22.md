@@ -88,7 +88,7 @@ children — A function that returns a React element. Unlike the prior two p
 
 Typically, either the component or render prop should be used. The children prop can be useful occasionally, but typically it is preferable to render nothing when the path does not match. We do not have any extra props to pass to the components, so each of our `<Route>`s will use the component prop.
 
-**References:**
+#### References
 
 - browser router tutorial [Read full article](https://blog.pshrmn.com/simple-react-router-v4-tutorial/)
 

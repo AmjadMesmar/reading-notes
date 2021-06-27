@@ -113,7 +113,7 @@ To achieve a good hashing mechanism, It is important to have a good hash functio
 
 [Watch](https://www.youtube.com/watch?v=MfhjkfocRR0)
 
-**References:**
+#### References
 
 - Intro to Hash Tables [Read full article](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-30/resources/Hashtables.html)
 

@@ -1,6 +1,6 @@
 # Review, Research, and Discussion
 
-### Name 3 real world use cases where you’d want to change the request with custom middleware:
+### Name 3 real world use cases where you’d want to change the request with custom middleware
 
 1. Validation.
 2. Logging.
@@ -36,6 +36,6 @@ It can end with the response variable such as "response.send()".
 
 - Behavioral Testing: BLACK BOX TESTING, also known as Behavioral Testing, is a software testing method in which the internal structure/design/implementation of the item being tested is not known to the tester. These tests can be functional or non-functional, though usually functional.
 
-**References:**
+#### References
 
 ## [Main page](https://amjadmesmar.github.io/reading-notes/)

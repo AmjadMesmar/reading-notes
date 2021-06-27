@@ -1,6 +1,7 @@
 # Review, Research, and Discussion
 
 1. Describe the similarities between AWS API Gateway + Lambda functions and an ExpressJS Server
+
 - Express Gateway is an API Gateway that can sit at the heart of any microservices architecture, regardless of what language or platform you’re using. Express Gateway secures your microservices and exposes them through APIs using Node.js, ExpressJS and Express middleware.
 
 - Amazon’s API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. With a few clicks you can create an API that acts as a “front door” for applications to access data, business logic, or functionality from your back-end services, such as workloads running on Amazon Elastic Compute Cloud (Amazon EC2), code running on AWS Lambda, or any Web application. Amazon API Gateway handles all the tasks involved in accepting and processing up to hundreds of thousands of concurrent API calls, including traffic management, authorization and access control, monitoring, and API version management.
@@ -139,7 +140,7 @@ You can also set the API version globally in AWS.config.apiVersions using the sq
 
         var sqs = new AWS.SQS();
 
-**References:**
+#### References
 
 - SQS and SNS Basics [Check it out](https://www.youtube.com/watch?v=UesxWuZMZqI)
 
