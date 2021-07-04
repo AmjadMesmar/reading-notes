@@ -1,5 +1,25 @@
 # Review, Research, and Discussion
 
+- Compare and Contrast Redux Toolkit with Redux “Ducks”
+
+Ducks is a modular pattern that collocates actions, action types and reducers.
+
+According to the Ducks proposal:
+
+A module…
+
+1. MUST export default a function called reducer()
+
+2. MUST export its action creators as functions
+
+3. MUST have action types in the form npm-module-or-app/reducer/ACTION_TYPE
+
+4. MAY export its action types as UPPER_SNAKE_CASE, if an external reducer needs to listen for them, or if it is a published reusable library
+
+- What is the principle advantage of Redux Toolkit
+
+Redux Toolkit makes it easier to write good Redux applications and speeds up development, by baking in our recommended best practices, providing good default behaviors, catching mistakes, and allowing you to write simpler code. Redux Toolkit is beneficial to all Redux users regardless of skill level or experience.
+
 ## Document the following Vocabulary Terms
 
 - redux toolkit slices:
@@ -19,9 +39,25 @@ One common solution in a case like this is to give each component a local state 
 
 However, our current front-end setup uses only functional components—functions that take props and return JSX components; no class ... extends React.Component. This choice made it easier to move to React for folks with less of a Javascript background. We were free from the this keyword and from ES6 class idiosyncrasies. Pure components were simpler to test.
 
+## getting started with react native
+
+Welcome to the very start of your React Native journey! If you're looking for environment setup instructions, they've moved to their own section. Continue reading for an introduction to the documentation, Native Components, React, and more!
+
+Many different kinds of people use React Native: from advanced iOS developers to React beginners, to people getting started programming for the first time in their career. These docs were written for all learners, no matter their experience level or background.
+
+### How to use these docs
+
+You can start here and read through these docs linearly like a book; or you can read the specific sections you need. Already familiar with React? You can skip that section—or read it for a light refresher.
+
+### Prerequisites
+
+To work with React Native, you will need to have an understanding of JavaScript fundamentals. If you’re new to JavaScript or need a refresher, you can dive in or brush up at Mozilla Developer Network.
+
+While we do our best to assume no prior knowledge of React, Android, or iOS development, these are valuable topics of study for the aspiring React Native developer. Where sensible, we have linked to resources and articles that go more in depth.
+
 #### References
 
-- making sense of hooks [Read full article](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+- getting started with react native [Read full article](https://reactnative.dev/docs/getting-started)
 
 - the state hook [Read full article](https://reactjs.org/docs/hooks-state.html)
 
