@@ -2,7 +2,7 @@
 
 ## Document the following Vocabulary Terms
 
-**References:**
+#### References
 
 - making sense of hooks [Read full article](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 
