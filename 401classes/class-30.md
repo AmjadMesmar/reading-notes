@@ -1,18 +1,18 @@
 # Review, Research, and Discussion
 
-Why choose Redux instead of the Context API for global state?
+- Why choose Redux instead of the Context API for global state?
 
 Context API prompts a re-render on each update of the state and re-renders all components regardless. Redux however, only re-renders the updated components. This can be monitored on the console as there's a log in each component.
 
-What is the purpose of a reducer?
+- What is the purpose of a reducer?
 
 A reducer is a function that determines changes to an application's state. It uses the action it receives to determine this change. We have tools, like Redux, that help manage an application's state changes in a single store so that they behave consistently.
 
-What does an action contain?
+- What does an action contain?
 
 Actions are the only source of information for the store as per Redux official documentation. It carries a payload of information from your application to store. const ITEMS_REQUEST = 'ITEMS_REQUEST'; Apart from this type attribute, the structure of an action object is totally up to the developer.
 
-Why do we need to copy the state in a reducer?
+- Why do we need to copy the state in a reducer?
 
 In the documentation of reducers(read it again for details!), redux only requires our reducers to stay pure. If the new state is different, the reducer must create new object, and making a copy is a way to describe the unchanged part.
 
